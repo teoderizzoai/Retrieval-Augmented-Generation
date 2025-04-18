@@ -1,0 +1,12 @@
+transformers
+sentence-transformers
+faiss-cpu
+accelerate
+torch
+bitsandbytes
+huggingface_hub
+python-dotenv
+nltk
+wikipedia 
+beautifulsoup4
+datasets
